@@ -1,2 +1,5 @@
-# Generated binary
-plexability
+# Build Directory
+build/
+
+# Output Directory
+bin/
